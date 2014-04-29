@@ -8,4 +8,4 @@ after_script:
 notifications:
   email:false
 after_success :
-  - git push git@heroku.com:git@heroku.com:shipheroku.git master
+  - git push git@heroku.com:shipheroku.git master
