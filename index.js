@@ -18,3 +18,4 @@ function nextPrime(n) {
 }
 
 module.exports.nextPrime = nextPrime;
+console.log("Muahahahaha!!");
